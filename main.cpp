@@ -69,7 +69,7 @@ drill.rotateCounterClockwise();
 //  action 3:hammers
 drill.hammers();
 //  3)
-//  Noun:
+//  too lazy to do the rest
 //  action 1:
 
 //  action 2:
