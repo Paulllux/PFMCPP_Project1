@@ -67,7 +67,7 @@ drill.rotateClockwise();
 //  action 2: turns Counterclockwise
 drill.rotateCounterClockwise();
 //  action 3:hammers
-drill.happers();
+drill.hammers();
 //  3)
 //  Noun:
 //  action 1:
