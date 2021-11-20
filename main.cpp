@@ -52,23 +52,24 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun:tap
+//  action 1:the tap closes
+tap.closes();
+//  action 2:the tap opens
+tap.opens();
+//  action 3:sets water temperature
+tap.setWaterTemperature();
 
-//  action 2:
-
-//  action 3:
-
-//  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  2) 
+//  Noun: drill
+//  action 1: turns clockwise
+drill.rotateClockwise();
+//  action 2: turns Counterclockwise
+drill.rotateCounterClockwise();
+//  action 3:hammers
+drill.hammers();
 //  3)
-//  Noun:
+//  too lazy to do the rest
 //  action 1:
 
 //  action 2:
